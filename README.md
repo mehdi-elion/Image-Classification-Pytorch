@@ -30,6 +30,6 @@ This repository contains the results obtained when running this transfer learnin
 
 ![ScreenShot](image_example.png)
 
-The first attempts gave an accuracy that greater that 95%. Besides that, GradCAM heatmaps show meaningful results on test images insofar as most of the defects are highlighted by the method (see figure below).
+The first attempts gave an accuracy that greater that 99%. Besides that, GradCAM heatmaps show meaningful results on test images insofar as most of the defects are highlighted by the method (see figure below).
 
 ![ScreenShot](GradCAM_example.png)
