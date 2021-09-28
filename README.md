@@ -17,12 +17,12 @@ The code for model training is contained in the `transfer_learning.ipynb` notebo
 
 <br>In order to run the script, make sure you have updated the `data_dir` python variable which must contain the path to the folder containing your dataset. This folder must have the following structure:
 <code>
-├── train                    
-│   ├── img_train_1.png         
-│   └── img_train_2.png   
-├── test  
-│   ├── img_test_1.png         
-│   └── img_test_2.png  
+├── train<br>                    
+│   ├── img_train_1.png<br>           
+│   └── img_train_2.png <br>    
+├── test  <br>  
+│   ├── img_test_1.png<br>           
+│   └── img_test_2.png<br>    
 </code>
 
 
