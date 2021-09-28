@@ -14,8 +14,7 @@ In case you want to remove this environment later on, use the following command:
 
 ## Model training
 The code for model training is contained in the `transfer_learning.ipynb` notebook which must be run as a standalone script. This code also performs model evaluation and the computation of GradCAM heatmaps.
-
-<br>In order to run the script, make sure you have updated the `data_dir` python variable which must contain the path to the folder containing your dataset. This folder must have the following structure:
+<br>In order to run the script, make sure you have updated the `data_dir` python variable which must contain the path to the folder containing your dataset. <!-- This folder must have the following structure:
 <code>
 ├── train<br>                    
 │   ├── img_train_1.png<br>           
@@ -23,7 +22,7 @@ The code for model training is contained in the `transfer_learning.ipynb` notebo
 ├── test  <br>  
 │   ├── img_test_1.png<br>           
 │   └── img_test_2.png<br>    
-</code>
+</code> -->
 
 
 ## Results
